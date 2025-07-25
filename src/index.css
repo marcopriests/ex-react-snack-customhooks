@@ -1,0 +1,8 @@
+* {
+    cursor: none;
+}
+
+.cursor {
+    position: fixed;
+    transform: translate(-50%, -50%);
+}
